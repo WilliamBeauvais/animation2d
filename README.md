@@ -3,7 +3,7 @@
 
 
 ## Qu'est-ce que l'animation 2D
-![Qu'est-ce que l'animation 2D](medias/1_animation.jpg)
+![Qu'est-ce que l'animation 2D](medias/1_animation.jpeg)
 ### L’animation 2D se caractérise par la création d’objets et de personnages dans un espace bidimensionnel. Cela signifie qu’ils n’ont que de la largeur et de la hauteur. Il est considéré comme un style d’animation traditionnel, connu depuis les années 1800. Elle est largement utilisée dans la création de films d’animation, de dessins animés, de vidéos commerciales, de publicités, de présentations d’entreprise, de supports pédagogiques, de jeux vidéo, etc.
 
 
