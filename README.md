@@ -28,7 +28,17 @@
 ### 1879, Invention du Zoopraxiscope par Eadweard Muybridge.
 #### Il reprend en 1879 le principe du disque tournant du Belge Joseph Plateau, le phénakistiscope (1832), qu’il améliore. Il remplace le carton qui constitue les disques, par du verre transparent sur lequel sont peintes ou collés des vignettes dessinées tirées des photographies.
 
+### 1914, Invention de l'animation sur cello par Earl Hurd et John Randolph Bray
+#### C'est une feuille transparente d'acétate de cellulose sur laquelle on peint à la main les éléments en mouvement d'un dessin animé effectué en animation traditionnelle. Grâce à la transparence de ces feuilles, on peut superposer plusieurs cellos et créer des scènes complexes sans devoir redessiner chaque fois les éléments statiques situés à l'arrière-plan. L'animation limitée est une technique de dessin animé qui, pour des raisons financières ou artistiques, réduit au minimum le nombre de mouvements des personnages, utilise peu de décors et use souvent d&#39;un nombre restreint d'images par seconde. L'économie qui en résulte provient également de la stylisation poussée des éléments dessinés, ceux-ci étant réduits à leur plus simple expression.
 
+### 1915, Invention de la rotoscopie par Dave Fleischer et Max Fleischer
+#### C'est une technique cinématographique qui consiste à relever image par image les contours d'une figure filmée en prise de vue réelle pour en transcrire la forme et les actions dans un film d'animation. Ce procédé permet de reproduire avec réalisme la dynamique des mouvements des sujets filmés
+
+### 1942, Invention de l'animation limitée par Warner Bros.
+#### L'animation limitée est une technique de dessin animé qui, pour des raisons financières ou artistiques, réduit au minimum le nombre de mouvements des personnages, utilise peu de décors et use souvent d'un nombre restreint d'images par seconde. L'économie qui en résulte provient également de la stylisation poussée des éléments dessinés, ceux-ci étant réduits à leur plus simple expression. Disney augmente les standards de l&#39;animation en faisant plus de recherche pour faire des personnages avec des émotions précise. Ils créent donc des chefs-d'oeuvre qui sont reconnus encore à ce jour.
+
+### 1972, Invention de l’animation par ordinateur par Edwin Catmull
+#### Certaines animations par ordinateur sont intégrées au sein de prise de vues réelles ou d'animations obtenues par d&#39;autres procédés. C'est d'ailleurs comme ça que l'animation par ordinateur a commencé à être utilisée avant que des films ou des vidéos soient entièrement animés avec l'outil informatique.
 
 ## L'animation de nos jours
 
@@ -52,23 +62,23 @@
 ### Il y a une multitude de logiciel d'animation disponible mais sur le lien ci-dessous, un professionel vous présente une quinzaine de logiciels
 
 #### https://www.youtube.com/watch?v=D9uYWykQmls
-##### Code temporel de la vidéo
+#### Code temporel de la vidéo
 
-###### 00:00 - Aperçu des logiciels d'animation 2D
-###### 00:47 - 01. ToonBoom Harmony
-###### 01:20 - 02. Pencil2D
-###### 01:34 - 03. Moho Pro
-###### 02:01 - 04. Synfig
-###### 02:42 - 05. Pencil
-###### 03:11 - 06. Krita
-###### 04:02 - 07. Adobe After Effects
-###### 04:35 - 08. Plastic Animation Paper
-###### 05:18 - 09. Opentoonz
-###### 05:55 - 10. Powtoon
-###### 06:20 - 11. FlipBook
-###### 06:48 - 12. Cartoon Animator 4
-###### 07:22 - 13. Adobe Animate CC
-###### 08:56 - 14. Blender
-###### 10:28 - 15. TVPaint Animation
+##### 00:00 - Aperçu des logiciels d'animation 2D
+##### 00:47 - 01. ToonBoom Harmony
+##### 01:20 - 02. Pencil2D
+##### 01:34 - 03. Moho Pro
+##### 02:01 - 04. Synfig
+##### 02:42 - 05. Pencil
+##### 03:11 - 06. Krita
+##### 04:02 - 07. Adobe After Effects
+##### 04:35 - 08. Plastic Animation Paper
+##### 05:18 - 09. Opentoonz
+##### 05:55 - 10. Powtoon
+##### 06:20 - 11. FlipBook
+##### 06:48 - 12. Cartoon Animator 4
+##### 07:22 - 13. Adobe Animate CC
+##### 08:56 - 14. Blender
+##### 10:28 - 15. TVPaint Animation
 
 
