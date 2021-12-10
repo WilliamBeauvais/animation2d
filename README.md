@@ -52,7 +52,9 @@
 
 ## L'animation de nos jours
 
+### Le changement
 ![L'animation de nos jours](media/14_aujourdhui.jpg)
+#### En 2021 on utilise encore l'animation 2D, mais on utilise en majorité l'animation 3D. Disney est passé au 3D depuis bien longtemps mais certain studios comme Ghibli reste sur de la 2D. Ghibli reste le seule à faire ses animations sur cello.
 
 ### Les étapes de l'animation 2D
 ![Les étapes de l'animation 2D](media/13_etapes.jpeg)
