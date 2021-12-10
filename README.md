@@ -65,3 +65,17 @@
 
 ##### La post-production est la phase de montage final de l’animation 2D. Au cours de cette étape, l’animation est enrichie d’effets sonores ou d’enregistrements supplémentaires qui renforcent son impact émotionnel. Une fois la version finale prête, elle est rendue et exportée vers différents formats.
 
+
+
+
+
+
+## Comment choisir le bon logiciel ?
+
+### Il y a une multitude de logiciel d'animation disponible mais sur le lien ci-dessous, un professionel vous présente une quinzaine de logiciels
+
+#### https://www.youtube.com/watch?v=D9uYWykQmls
+
+##### Code temporel de la vidéo, 00:00 - Aperçu des logiciels d'animation 2D, 00:47 - 01. ToonBoom Harmony, 01:20 - 02. Pencil2D, 01:34 - 03. Moho Pro, 02:01 - 04. Synfig, 02:42 - 05. Pencil, 03:11 - 06. Krita, 04:02 - 07. Adobe After Effects, 04:35 - 08. Plastic Animation Paper, 05:18 - 09. Opentoonz, 05:55 - 10. Powtoon, 06:20 - 11. FlipBook, 06:48 - 12. Cartoon Animator 4, 07:22 - 13. Adobe Animate CC, 08:56 - 14. Blender, 10:28 - 15. TVPaint Animation
+
+
