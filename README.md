@@ -28,9 +28,6 @@
 ### 1879, Invention du Zoopraxiscope par Eadweard Muybridge.
 #### Il reprend en 1879 le principe du disque tournant du Belge Joseph Plateau, le phénakistiscope (1832), qu’il améliore. Il remplace le carton qui constitue les disques, par du verre transparent sur lequel sont peintes ou collés des vignettes dessinées tirées des photographies.
 
-### 1928, Invention du Praxinoscope par Émile Reynaud.
-#### Le praxinoscope fut inventé par Émile Reynaud en 1876 , il s'agissait d'un jouet optique donnant l'illusion du mouvement et fonctionnant sur le principe de la compensation optique. Ce jouet obtient une mention honorable à l'Exposition universelle de Paris de 1878 et aura un beau succès commercial qui permit à son inventeur de continuer ses recherches. Le praxinoscope améliore le zootrope de William George Horner dont il emprunte le principe de la bande de douze dessins décomposant un mouvement cyclique. Comme dans le zootrope, cette bande interchangeable est disposée à l'intérieur d'un tambour qui tourne autour d'un axe servant accessoirement de pied. Mais dans le praxinoscope, Émile Reynaud a ajouté à l'intérieur du tambour un cylindre à facettes sur lequel sont disposés douze petits miroirs.
-
 
 
 ## L'animation de nos jours
