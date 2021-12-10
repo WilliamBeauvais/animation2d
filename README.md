@@ -9,7 +9,7 @@
 
 
 ## L'évolution de l'animation 2D
-![L'évolution de l'animation 2D](media/2_evolution.jpg)
+![L'évolution de l'animation 2D](media/2_histoire.jpg)
 ### 1825, Invention du Thaumatrope par John Ayrton Paris
 ![1825, Invention du Thaumatrope par John Ayrton Paris](media/3_thaumatrope.jpeg)
 #### Le thaumatrope est un jouet optique qui exploite le phénomène de la persistance rétinienne. Lorsque la lumière atteint la rétine, les cellules photosensibles déclenchent une réaction chimique. La persistance d'une durée d'environ 50 ms laisse une "trace" au fond de la rétine. Si une autre image est perçue par l'œil dans ce laps de temps, notre cerveau aura l'illusion de voir les deux images en même temps. Peut-être fabriqués depuis le paléolithique, ces dispositifs seraient les plus anciens jouets d'optique au monde. Le principe est redécouvert et aurait été commercialisé pour la première fois en 1825 par John Ayrton Paris
@@ -46,8 +46,8 @@
 ![Invention de l'animation limitée par Warner Bros.](media/11_animation_limitee.jpg)
 #### L'animation limitée est une technique de dessin animé qui, pour des raisons financières ou artistiques, réduit au minimum le nombre de mouvements des personnages, utilise peu de décors et use souvent d'un nombre restreint d'images par seconde. L'économie qui en résulte provient également de la stylisation poussée des éléments dessinés, ceux-ci étant réduits à leur plus simple expression. Disney augmente les standards de l&#39;animation en faisant plus de recherche pour faire des personnages avec des émotions précise. Ils créent donc des chefs-d'oeuvre qui sont reconnus encore à ce jour.
 
-### 1972, Invention de l’animation par ordinateur par Edwin Catmull
-![1972, Invention de l’animation par ordinateur par Edwin Catmull](media/12_animation_par_ordinateur.jpg)
+### 1972, Invention de l’animation sur ordinateur par Edwin Catmull
+![1972, Invention de l’animation sur ordinateur par Edwin Catmull](media/12_animation_sur_ordinateur.jpg)
 #### Certaines animations par ordinateur sont intégrées au sein de prise de vues réelles ou d'animations obtenues par d&#39;autres procédés. C'est d'ailleurs comme ça que l'animation par ordinateur a commencé à être utilisée avant que des films ou des vidéos soient entièrement animés avec l'outil informatique.
 
 ## L'animation de nos jours
