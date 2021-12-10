@@ -14,8 +14,8 @@
 ![1825, Invention du Thaumatrope par John Ayrton Paris](media/3_thaumatrope.jpeg)
 #### Le thaumatrope est un jouet optique qui exploite le phénomène de la persistance rétinienne. Lorsque la lumière atteint la rétine, les cellules photosensibles déclenchent une réaction chimique. La persistance d'une durée d'environ 50 ms laisse une "trace" au fond de la rétine. Si une autre image est perçue par l'œil dans ce laps de temps, notre cerveau aura l'illusion de voir les deux images en même temps. Peut-être fabriqués depuis le paléolithique, ces dispositifs seraient les plus anciens jouets d'optique au monde. Le principe est redécouvert et aurait été commercialisé pour la première fois en 1825 par John Ayrton Paris
 
-### 1832, Invention du Phénakistoscope par Joseph Plateau
-![1832, Invention du Phénakistoscope par Joseph Plateau](media/4_phenakistoscope.jpg)
+### 1832, Invention du Phénakistiscope par Joseph Plateau
+![1832, Invention du Phénakistiscope par Joseph Plateau](media/4_phenakistoscope.jpg)
 #### Il comporte un disque en carton, percé de dix à douze fentes, sur lequel un mouvement est décomposé en une séquence d'images fixes, et un manche permettant son maintien pendant sa rotation. Pour percevoir le mouvement, le spectateur se place en face d'un miroir et met ses yeux au niveau des fentes du disque, du côté opposé aux dessins. Il fait ensuite tourner le carton. Les fentes servent d'obturateur en ne laissant apparaître l'image reflétée dans le miroir qu'un très court instant. L'œil voit donc une seule image, qui semble être en mouvement lorsque le disque tourne à une vitesse suffisante. Le rendu des animations produites par le phénakistiscope a constitué, au moment de son invention et de sa découverte par le public, un formidable progrès. Il n'en demeure pas moins que ces animations comportent de nombreux défauts comme le manque de luminosité et le flou.
 
 ### 1834, Invention du Zootrope par William George Horner et Simon Stampfer
@@ -94,4 +94,20 @@
 ##### 08:56 - 14. Blender
 ##### 10:28 - 15. TVPaint Animation
 
+## Comment on utilise l'animation 2D dans le multimédia ?
+### On l'utilise dans les films, les jeux, les vidéos et pleins d'autres arts visuels
 
+## Sources
+### https://youtu.be/mbpLpxi9rJY, https://www.youtube.com/watch?v=D9uYWykQmls
+### https://en.wikipedia.org/wiki/Animation
+### https://www.renderforest.com/fr/blog/2d-animation
+### https://fr.wikipedia.org/wiki/Ph%C3%A9nakistiscope
+### https://fr.wikipedia.org/wiki/Thaumatrope
+### https://fr.wikipedia.org/wiki/Zootrope
+### https://fr.wikipedia.org/wiki/Folioscope
+### https://fr.wikipedia.org/wiki/Praxinoscope
+### https://fr.wikipedia.org/wiki/Zoopraxiscope
+### https://fr.wikipedia.org/wiki/Cellulo%C3%AFd_(dessin_anim%C3%A9)
+### https://fr.wikipedia.org/wiki/Rotoscopie
+### https://fr.wikipedia.org/wiki/Animation_limit%C3%A9e
+### https://fr.wikipedia.org/wiki/Animation_par_ordinateur
